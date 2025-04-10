@@ -146,6 +146,9 @@ This project utilizes a Convolutional Neural Network (CNN) built from scratch to
 
 ### Technical Overview:
 -  Architecture: Custom CNN with multiple convolutional layers, pooling layers, and fully connected dense layers.
+
+![CNN Gif](./cnn.gif)
+
 -  Input: Pre-processed leaf images resized to uniform dimensions.
 -  Feature Extraction: Convolution layers detect edges, textures, color patterns, and disease-specific symptoms.
 -  Classification: Softmax output layer classifies images into respective disease categories.
@@ -163,6 +166,7 @@ This project utilizes a Convolutional Neural Network (CNN) built from scratch to
 We used [Plant Disease Recognition Dataset — Kaggle](https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset?resource=download)
 for plant disease data.
 
+![CNN Image](./cnn.jpg)
 
 ### Technologies Used:
 |Component|Technology|
