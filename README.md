@@ -160,6 +160,8 @@ This project utilizes a Convolutional Neural Network (CNN) built from scratch to
 3. The CNN model predicts the class of disease based on learned features.
 4. The prediction result is displayed to the user.
 
+We used [Plant Disease Recognition Dataset — Kaggle](https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset?resource=download)
+for plant disease data.
 
 
 ### Technologies Used:
