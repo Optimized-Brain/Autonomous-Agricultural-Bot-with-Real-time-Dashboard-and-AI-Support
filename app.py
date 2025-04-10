@@ -53,9 +53,6 @@ def predict():
     predictions = get_result(file_path)
     predicted_label = labels[np.argmax(predictions)]
 
-    # Optionally, you can delete the file after prediction:
-    # os.remove(file_path)
-
     # Return the prediction result as JSON
     return jsonify({'prediction': predicted_label})
 
