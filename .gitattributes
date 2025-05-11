@@ -5,5 +5,5 @@
 *.js linguist-language=JavaScript
 *.css linguist-language=CSS
 *.py linguist-language=Python
-*.ipynb linguist-documentation
+*.ipynb linguist-language=Jupyter Notebook
 
