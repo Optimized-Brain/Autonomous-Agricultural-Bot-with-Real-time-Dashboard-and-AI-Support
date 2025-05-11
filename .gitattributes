@@ -5,3 +5,4 @@
 *.js linguist-language=JavaScript
 *.css linguist-language=CSS
 *.py linguist-language=Python
+*.ipynb linguist-generated
