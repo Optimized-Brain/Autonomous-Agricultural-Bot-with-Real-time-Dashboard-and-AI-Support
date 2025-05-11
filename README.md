@@ -156,7 +156,11 @@ A CAD model (`MainFile v12.step`) provides the mechanical design for mounting co
 4. Route wiring neatly; secure with cable ties.
 5. Place the peristaltic pump above water reservoir.
 
----
+<p align="center">
+    <img src="./design.jpg" alt="Mechanical CAD Model" width="450" height="400"/>
+</p>
+
+
 
 ### Firmware Upload
 
@@ -221,7 +225,11 @@ A CAD model (`MainFile v12.step`) provides the mechanical design for mounting co
 
 - **Real-time Sensor Data:**
   - The dashboard fetches live data from sensors measuring parameters like temperature, humidity, and soil moisture.
-  - This data is stored and retrieved from Firebase, ensuring real-time updates.
+  - This data is stored and retrieved from Firebase, ensuring real-time updates.
+ 
+<p align="center">
+  <img src="./dashboard.jpg" alt="AI and Web Surveillance Dashboard" width="640" height="305" />
+</p>
 
 - **Dynamic Charting:**
   - Utilizing Chart.js, the application renders dynamic charts that visually represent the sensor data.
