@@ -98,7 +98,7 @@ A CAD model (`MainFile v12.step`) provides the mechanical design for mounting co
 | 1   | DHT11 sensor              | Temperature & humidity sensor       |
 | 2   | MG90S Micro Servo Motors  | Seed dispensing & retraction servos |
 | 2   | NEMA 17 Stepper Motors    | Positioning in X and Z axes         |
-| 2   | A4988 Stepper Drivers     | Drivers for NEMA17                  |
+| 2   | L298n motor Drivers       | Drivers for NEMA17                  |
 | 1   | Peristaltic Pump          | For automated watering              |
 | 1   | 12 V Power Supply         | Power for steppers and pump         |
 | 1   | 5 V Regulator / Buck      | Supply ESP32, servos, and DHT11     |
