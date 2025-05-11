@@ -1,0 +1,7 @@
+*.ino linguist-language=C++
+*.h linguist-language=C++
+*.cpp linguist-language=C++
+*.html linguist-language=HTML
+*.js linguist-language=JavaScript
+*.css linguist-language=CSS
+*.py linguist-language=Python
