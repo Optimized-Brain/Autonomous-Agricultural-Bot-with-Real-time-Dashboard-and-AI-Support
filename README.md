@@ -3,15 +3,6 @@
 
 A Flask-based web dashboard that uses deep learning to classify plant diseases from uploaded images and provides live updates through charts, weather forecast information, and a real-time webcam feed. This project leverages TensorFlow for model predictions, Flask for the backend server, Chart.js for live sensor data visualization, Leaflet for mapping weather data, and Firebase for real-time data updates.
 
-## Table of Contents
-
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Hardware](#hardware)
-- [Working](#working)
-- [Usage](#usage)
-- [Acknowledgements](#acknowledgements)
 
 ## Features
 
