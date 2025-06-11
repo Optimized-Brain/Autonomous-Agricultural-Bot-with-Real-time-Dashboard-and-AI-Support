@@ -127,8 +127,8 @@ A CAD model (`MainFile v12.step`) provides the mechanical design for mounting co
 | `32`            | Servo 1 (Seed Drop)  | MG90S control wire                |
 | `33`            | Servo 2 (Retract)    | MG90S control wire                |
 | `13`            | Pump Control         | NPN transistor base / relay input |
-| `5, 18, 19, 21` | Stepper X Motor (sx) | Inputs A+, A−, B+, B− to A4988    |
-| `15, 4, 22, 23` | Stepper Z Motor (sz) | Inputs A+, A−, B+, B− to A4988    |
+| `5, 18, 19, 21` | Stepper X Motor (sx) | Inputs O1, O2, O3, O4 to L298n    |
+| `15, 4, 22, 23` | Stepper Z Motor (sz) | Inputs O1, O2, O3, O4 to L298n    |
 | `GND`           | All grounds common   |                                   |
 | `Vin`           | 12 V supply          | Through buck regulators etc.      |
 
