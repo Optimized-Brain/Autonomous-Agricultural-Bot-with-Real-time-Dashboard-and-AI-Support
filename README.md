@@ -3,6 +3,8 @@
 
 A Flask-based web dashboard that uses deep learning to classify plant diseases from uploaded images and provides live updates through charts, weather forecast information, and a real-time webcam feed. This project leverages TensorFlow for model predictions, Flask for the backend server, Chart.js for live sensor data visualization, Leaflet for mapping weather data, and Firebase for real-time data updates.
 
+[![Watch Demo](https://img.shields.io/badge/Watch%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Optimized-Brain/Autonomous-Agricultural-Bot-with-Real-time-Dashboard-and-AI-Support/main/agrobot_video.mp4)
+
 
 ## Features
 
