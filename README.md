@@ -3,7 +3,8 @@
 
 A Flask-based web dashboard that uses deep learning to classify plant diseases from uploaded images and provides live updates through charts, weather forecast information, and a real-time webcam feed. This project leverages TensorFlow for model predictions, Flask for the backend server, Chart.js for live sensor data visualization, Leaflet for mapping weather data, and Firebase for real-time data updates.
 
-[![Watch Demo](https://img.shields.io/badge/Watch%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Optimized-Brain/Autonomous-Agricultural-Bot-with-Real-time-Dashboard-and-AI-Support/main/agrobot_video.mp4)
+[![Watch Demo](https://img.shields.io/badge/Watch%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://drive.google.com/file/d/1HkbRedtonIWX_rUHTdp8mt9YCdRuoPzx/view?usp=sharing)
+[![Research Paper](https://img.shields.io/badge/Research%20Paper-Read-4B8BBE?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1iHE-vqTfTYvV2qFRU3doXYmJo2ll4waJ/view?usp=sharing)
 
 
 ## Features
@@ -382,6 +383,31 @@ An AI-driven chatbot was integrated into the Plant Disease Detection website to 
 - [Leaflet](https://leafletjs.com/) for interactive maps.
 - [Firebase](https://firebase.google.com/) for real-time updates.
 - [OpenWeatherMap](https://openweathermap.org/) for weather data.
+
+
+---
+
+## 📑 Citation
+
+If you use this project or reference our work, please cite the following paper:
+
+> **Chaitrathejasvi Kodali, Shoaib Attar, Sanjay B. Deshmukh.**  
+*Autonomous Agricultural Bot with Real-time Dashboard and AI Support.*  
+DJS Spark, 2025, pp. 17–23.
+
+
+### 📜 BibTeX
+```
+@inproceedings{kodali2025agrobot,
+  title     = {Autonomous Agricultural Bot with Real-time Dashboard and AI Support},
+  author    = {Kodali, Chaitrathejasvi and Attar, Shoaib and Deshmukh, Sanjay B.},
+  booktitle = {DJS Spark},
+  year      = {2025},
+  pages     = {17--23}
+}
+
+```
+
 
 
 ---
